@@ -1,3 +1,64 @@
+Project Documentation
+Live link:https://webdevelopmentfinal.netlify.app/
+
+Project Title: Responsive Single-Page Website
+
+Description:
+A fully responsive website built using HTML5, CSS3, and JavaScript.
+It includes three main sections: Home, About, and Contact.
+The website features a sticky navigation bar, smooth scrolling, mobile-friendly menu, and form validation using JavaScript.
+
+Technologies Used:
+
+HTML5 – semantic structure
+
+CSS3 – styling and responsive layout
+
+JavaScript – form validation and mobile menu toggle
+
+
+Features:
+
+Responsive design that works on desktop, tablet, and mobile
+
+Sticky navigation bar
+
+Smooth scrolling between sections
+
+Contact form with validation
+
+Mobile menu toggle for small screens
+
+
+Folder Structure:
+
+project-folder/
+│── index.html
+│── styles.css
+│── script.js
+└── images/
+      └── hero1.jpg
+
+Usage Instructions:
+
+1. Open index.html in a browser to view the website.
+
+
+2. Use the navigation links to jump between Home, About, and Contact sections.
+
+
+3. Fill the Contact form to test form validation.
+
+
+
+Future Improvements:
+
+Add image slider in the Home section
+
+Add more sections/pages if needed
+
+Add animations and transitions
+
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
